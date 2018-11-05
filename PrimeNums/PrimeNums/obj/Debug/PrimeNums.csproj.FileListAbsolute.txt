@@ -1,0 +1,7 @@
+C:\CC6\Labs\PrimeNums\PrimeNums\bin\Debug\PrimeNums.exe.config
+C:\CC6\Labs\PrimeNums\PrimeNums\bin\Debug\PrimeNums.exe
+C:\CC6\Labs\PrimeNums\PrimeNums\bin\Debug\PrimeNums.pdb
+C:\CC6\Labs\PrimeNums\PrimeNums\obj\Debug\PrimeNums.csprojAssemblyReference.cache
+C:\CC6\Labs\PrimeNums\PrimeNums\obj\Debug\PrimeNums.csproj.CoreCompileInputs.cache
+C:\CC6\Labs\PrimeNums\PrimeNums\obj\Debug\PrimeNums.exe
+C:\CC6\Labs\PrimeNums\PrimeNums\obj\Debug\PrimeNums.pdb
